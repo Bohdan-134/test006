@@ -1,0 +1,190 @@
+/* -----my-edit---- */
+._iph_rgt{
+    display: flex;
+}
+
+.cimke {
+    text-transform: uppercase;
+    padding: 3px 5px;
+    font-family: "Roboto Condensed", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 14px;
+    display: block;
+}
+.cimke-rovat {
+    background-color: #158dc5;
+    color: #ffffff;
+}
+.m-cf-fejlec_container_links_item_link_container_label {
+    color: #999;
+    font-weight: 700;
+}
+.m-cf-fejlec_container_links_item_link_container_icon {
+    fill: #999;
+}
+.m-cf-fejlec_container_inda_kiadvanyok_item_link {
+    color: #999;
+}
+.m-cf-fejlec_container_inda_actions_item.itemSearch .m-cf-fejlec_container_inda_actions_item_button_wrapper_icon {
+    fill: #999;
+}
+@media only screen and (min-width: 1024px) {
+    .index-header-wrapper {
+        padding-bottom: 20px !important;
+    }
+}
+
+/* --------------------- */
+
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url("../../../fonts/RobotoCondensed-Regular.woff") format("woff"), url("../../../fonts/RobotoCondensed-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: local("Open Sans ExtraBold Italic"), local("OpenSans-ExtraBoldItalic"), url("../../../fonts/OpenSans-ExtraBoldItalic.woff2") format("woff2"), url("../../../fonts/OpenSans-ExtraBoldItalic.ttf") format("truetype");
+    font-weight: 800;
+    font-style: italic
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: local("Open Sans Bold"), local("OpenSans-Bold"), url("../../../fonts/OpenSans-Bold.woff2") format("woff2"), url("../../../fonts/OpenSans-Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: local("Open Sans SemiBold Italic"), local("OpenSans-SemiBoldItalic"), url("../../../fonts/OpenSans-SemiBoldItalic.woff2") format("woff2"), url("../../../fonts/OpenSans-SemiBoldItalic.ttf") format("truetype");
+    font-weight: 600;
+    font-style: italic
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: local("Open Sans Bold Italic"), local("OpenSans-BoldItalic"), url("../../../fonts/OpenSans-BoldItalic.woff2") format("woff2"), url("../../../fonts/OpenSans-BoldItalic.ttf") format("truetype");
+    font-weight: bold;
+    font-style: italic
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: local("Open Sans ExtraBold"), local("OpenSans-ExtraBold"), url("../../../fonts/OpenSans-ExtraBold.woff2") format("woff2"), url("../../../fonts/OpenSans-ExtraBold.ttf") format("truetype");
+    font-weight: 800;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: local("Open Sans Light Italic"), local("OpenSans-LightItalic"), url("../../../fonts/OpenSans-LightItalic.woff2") format("woff2"), url("../../../fonts/OpenSans-LightItalic.ttf") format("truetype");
+    font-weight: 300;
+    font-style: italic
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: local("Open Sans Light"), local("OpenSans-Light"), url("../../../fonts/OpenSans-Light.woff2") format("woff2"), url("../../../fonts/OpenSans-Light.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: local("Open Sans Italic"), local("OpenSans-Italic"), url("../../../fonts/OpenSans-Italic.woff2") format("woff2"), url("../../../fonts/OpenSans-Italic.ttf") format("truetype");
+    font-weight: normal;
+    font-style: italic
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: local("Open Sans SemiBold"), local("OpenSans-SemiBold"), url("../../../fonts/OpenSans-SemiBold.woff2") format("woff2"), url("../../../fonts/OpenSans-SemiBold.ttf") format("truetype");
+    font-weight: 600;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: local("Open Sans Regular"), local("OpenSans-Regular"), url("../../../fonts/OpenSans-Regular.woff2") format("woff2"), url("../../../fonts/OpenSans-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal
+}
+
+.fixed-header .icon {
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    padding: 6px;
+    background-position: center 0;
+    background-size: 24px;
+    background-origin: content-box
+}
+
+@media only screen and (max-width: 700px) {
+
+    .fixed-header .icon,
+    .fixed-header #passportHeader._iph_mini .icon {
+        height: 48px;
+        width: 44px;
+        padding: 12px
+    }
+}
+
+._iph_fixed-header.fixed-header .icon-harang {
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22utf-8%22%3F%3E%0D%0A%3C%21--%20Generator%3A%20Adobe%20Illustrator%2017.1.0%2C%20SVG%20Export%20Plug-In%20.%20SVG%20Version%3A%206.00%20Build%200%29%20%20--%3E%0D%0A%3C%21DOCTYPE%20svg%20PUBLIC%20%22-//W3C//DTD%20SVG%201.1//EN%22%20%22http%3A//www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd%22%3E%0D%0A%3Csvg%20version%3D%221.1%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20xmlns%3Axlink%3D%22http%3A//www.w3.org/1999/xlink%22%20x%3D%220px%22%20y%3D%220px%22%0D%0A%09%20viewBox%3D%220%200%2024%2024%22%20style%3D%22enable-background%3Anew%200%200%2024%2024%3B%22%20xml%3Aspace%3D%22preserve%22%3E%0D%0A%3Cstyle%20type%3D%22text/css%22%3E%0D%0A%09.st2%7Bfill%3A%23999999%3B%7D%0D%0A%3C/style%3E%0D%0A%3Cg%20id%3D%22Layer_2%22%3E%0D%0A%09%3Cg%3E%0D%0A%09%09%3Cpath%20class%3D%22st2%22%20d%3D%22M12%2C17.6C8.1%2C17.6%2C2%2C19%2C2%2C19s0-0.9%2C0-1.2c0-0.5%2C0.4-0.6%2C0.5-0.6c1.1%2C0%2C1.4-1.5%2C1.4-1.5%0D%0A%09%09%09c0.7-7.9%2C4.3-10.8%2C7-11.4c-0.2-0.3-0.3-0.5-0.3-0.9C10.6%2C2.6%2C11.2%2C2%2C12%2C2s1.4%2C0.6%2C1.4%2C1.4c0%2C0.3-0.1%2C0.6-0.3%2C0.9%0D%0A%09%09%09c2.6%2C0.6%2C6.2%2C3.4%2C7%2C11.5v-0.1c0%2C1.4%2C1.3%2C1.5%2C1.4%2C1.5c0.3%2C0%2C0.5%2C0.2%2C0.5%2C0.6c0%2C0.4%2C0%2C1.2%2C0%2C1.2S15.9%2C17.6%2C12%2C17.6z%20M14.8%2C20.3%0D%0A%09%09%09c0%2C1.6-1.3%2C2.5-2.8%2C2.5c-1.6%2C0-2.8-0.9-2.8-2.5c0%2C0%2C0.8-0.3%2C2.8-0.3C14%2C20%2C14.8%2C20.3%2C14.8%2C20.3z%22/%3E%0D%0A%09%3C/g%3E%0D%0A%3C/g%3E%0D%0A%3C/svg%3E%0D%0A");
+    background-repeat: no-repeat
+}
+
+._iph_fixed-header.fixed-header .icon-harang:hover,
+._iph_fixed-header.fixed-header .active>.icon-harang {
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22utf-8%22%3F%3E%0D%0A%3C%21--%20Generator%3A%20Adobe%20Illustrator%2017.1.0%2C%20SVG%20Export%20Plug-In%20.%20SVG%20Version%3A%206.00%20Build%200%29%20%20--%3E%0D%0A%3C%21DOCTYPE%20svg%20PUBLIC%20%22-//W3C//DTD%20SVG%201.1//EN%22%20%22http%3A//www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd%22%3E%0D%0A%3Csvg%20version%3D%221.1%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20xmlns%3Axlink%3D%22http%3A//www.w3.org/1999/xlink%22%20x%3D%220px%22%20y%3D%220px%22%0D%0A%09%20viewBox%3D%220%200%2024%2024%22%20style%3D%22enable-background%3Anew%200%200%2024%2024%3B%22%20xml%3Aspace%3D%22preserve%22%3E%0D%0A%3Cstyle%20type%3D%22text/css%22%3E%0D%0A%09.st2%7Bfill%3A%23222222%3B%7D%0D%0A%3C/style%3E%0D%0A%0D%0A%3Cg%20id%3D%22Layer_2%22%3E%0D%0A%09%3Cg%3E%0D%0A%09%09%3Cpath%20class%3D%22st2%22%20d%3D%22M12%2C17.6C8.1%2C17.6%2C2%2C19%2C2%2C19s0-0.9%2C0-1.2c0-0.5%2C0.4-0.6%2C0.5-0.6c1.1%2C0%2C1.4-1.5%2C1.4-1.5%0D%0A%09%09%09c0.7-7.9%2C4.3-10.8%2C7-11.4c-0.2-0.3-0.3-0.5-0.3-0.9C10.6%2C2.6%2C11.2%2C2%2C12%2C2s1.4%2C0.6%2C1.4%2C1.4c0%2C0.3-0.1%2C0.6-0.3%2C0.9%0D%0A%09%09%09c2.6%2C0.6%2C6.2%2C3.4%2C7%2C11.5v-0.1c0%2C1.4%2C1.3%2C1.5%2C1.4%2C1.5c0.3%2C0%2C0.5%2C0.2%2C0.5%2C0.6c0%2C0.4%2C0%2C1.2%2C0%2C1.2S15.9%2C17.6%2C12%2C17.6z%20M14.8%2C20.3%0D%0A%09%09%09c0%2C1.6-1.3%2C2.5-2.8%2C2.5c-1.6%2C0-2.8-0.9-2.8-2.5c0%2C0%2C0.8-0.3%2C2.8-0.3C14%2C20%2C14.8%2C20.3%2C14.8%2C20.3z%22/%3E%0D%0A%09%3C/g%3E%0D%0A%3C/g%3E%0D%0A%3C/svg%3E%0D%0A");
+    background-repeat: no-repeat
+}
+
+.fixed-header .icon-nagyito,
+.fixed-header .kereses-dropdown.active>.icon-nagyito {
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22utf-8%22%3F%3E%0D%0A%3C%21--%20Generator%3A%20Adobe%20Illustrator%2017.1.0%2C%20SVG%20Export%20Plug-In%20.%20SVG%20Version%3A%206.00%20Build%200%29%20%20--%3E%0D%0A%3C%21DOCTYPE%20svg%20PUBLIC%20%22-//W3C//DTD%20SVG%201.1//EN%22%20%22http%3A//www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd%22%3E%0D%0A%3Csvg%20version%3D%221.1%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20xmlns%3Axlink%3D%22http%3A//www.w3.org/1999/xlink%22%20x%3D%220px%22%20y%3D%220px%22%0D%0A%09%20viewBox%3D%220%200%2024%2024%22%20style%3D%22enable-background%3Anew%200%200%2024%2024%3B%22%20xml%3Aspace%3D%22preserve%22%3E%0D%0A%3Cstyle%20type%3D%22text/css%22%3E%0D%0A%09.st2%7Bfill%3A%23999999%3B%7D%0D%0A%3C/style%3E%0D%0A%3Cg%20id%3D%22Layer_3%22%3E%0D%0A%09%3Cg%3E%0D%0A%09%09%3Cpath%20class%3D%22st2%22%20d%3D%22M21.8%2C20c0.2%2C0.2%2C0.2%2C0.7%2C0%2C0.9l-0.9%2C0.9c-0.2%2C0.2-0.7%2C0.2-0.9%2C0l-5.1-5.1c-0.1-0.1-0.1-0.2-0.2-0.2%0D%0A%09%09%09c-1.3%2C1-2.9%2C1.5-4.7%2C1.5c-4.4%2C0-8-3.6-8-8s3.6-8%2C8-8s8%2C3.6%2C8%2C8c0%2C1.7-0.6%2C3.4-1.5%2C4.7c0.1%2C0%2C0.2%2C0.1%2C0.2%2C0.2L21.8%2C20z%20M10.1%2C4.7%0D%0A%09%09%09c-2.9%2C0-5.3%2C2.4-5.3%2C5.3s2.4%2C5.3%2C5.3%2C5.3s5.3-2.4%2C5.3-5.3S13%2C4.7%2C10.1%2C4.7z%22/%3E%0D%0A%09%3C/g%3E%0D%0A%3C/g%3E%0D%0A%3C/svg%3E%0D%0A");
+    background-repeat: no-repeat
+}
+
+.fixed-header .icon-nagyito:hover,
+.fixed-header .active>.icon-nagyito,
+.fixed-header .kereses-dropdown.active>.icon-nagyito:hover {
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22utf-8%22%3F%3E%0D%0A%3C%21--%20Generator%3A%20Adobe%20Illustrator%2017.1.0%2C%20SVG%20Export%20Plug-In%20.%20SVG%20Version%3A%206.00%20Build%200%29%20%20--%3E%0D%0A%3C%21DOCTYPE%20svg%20PUBLIC%20%22-//W3C//DTD%20SVG%201.1//EN%22%20%22http%3A//www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd%22%3E%0D%0A%3Csvg%20version%3D%221.1%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20xmlns%3Axlink%3D%22http%3A//www.w3.org/1999/xlink%22%20x%3D%220px%22%20y%3D%220px%22%0D%0A%09%20viewBox%3D%220%200%2024%2024%22%20style%3D%22enable-background%3Anew%200%200%2024%2024%3B%22%20xml%3Aspace%3D%22preserve%22%3E%0D%0A%3Cstyle%20type%3D%22text/css%22%3E%0D%0A%09.st2%7Bfill%3A%23222222%3B%7D%0D%0A%3C/style%3E%0D%0A%3Cg%20id%3D%22Layer_3%22%3E%0D%0A%09%3Cg%3E%0D%0A%09%09%3Cpath%20class%3D%22st2%22%20d%3D%22M21.8%2C20c0.2%2C0.2%2C0.2%2C0.7%2C0%2C0.9l-0.9%2C0.9c-0.2%2C0.2-0.7%2C0.2-0.9%2C0l-5.1-5.1c-0.1-0.1-0.1-0.2-0.2-0.2%0D%0A%09%09%09c-1.3%2C1-2.9%2C1.5-4.7%2C1.5c-4.4%2C0-8-3.6-8-8s3.6-8%2C8-8s8%2C3.6%2C8%2C8c0%2C1.7-0.6%2C3.4-1.5%2C4.7c0.1%2C0%2C0.2%2C0.1%2C0.2%2C0.2L21.8%2C20z%20M10.1%2C4.7%0D%0A%09%09%09c-2.9%2C0-5.3%2C2.4-5.3%2C5.3s2.4%2C5.3%2C5.3%2C5.3s5.3-2.4%2C5.3-5.3S13%2C4.7%2C10.1%2C4.7z%22/%3E%0D%0A%09%3C/g%3E%0D%0A%3C/g%3E%0D%0A%3C/svg%3E%0D%0A");
+    background-repeat: no-repeat
+}
+
+.fixed-header .icon-fogaskerek {
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22utf-8%22%3F%3E%0D%0A%3C%21--%20Generator%3A%20Adobe%20Illustrator%2017.1.0%2C%20SVG%20Export%20Plug-In%20.%20SVG%20Version%3A%206.00%20Build%200%29%20%20--%3E%0D%0A%3C%21DOCTYPE%20svg%20PUBLIC%20%22-//W3C//DTD%20SVG%201.1//EN%22%20%22http%3A//www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd%22%3E%0D%0A%3Csvg%20version%3D%221.1%22%20id%3D%22Layer_1%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20xmlns%3Axlink%3D%22http%3A//www.w3.org/1999/xlink%22%20x%3D%220px%22%20y%3D%220px%22%0D%0A%09%20viewBox%3D%220%200%2016%2016%22%20style%3D%22enable-background%3Anew%200%200%2016%2016%3B%22%20xml%3Aspace%3D%22preserve%22%3E%0D%0A%3Cstyle%20type%3D%22text/css%22%3E%0D%0A%09.st0%7Bfill%3A%23999999%3B%7D%0D%0A%3C/style%3E%0D%0A%3Cg%3E%0D%0A%09%3Cpath%20class%3D%22st0%22%20d%3D%22M2.5%2C9.6h-2C0.2%2C9.6%2C0%2C9.4%2C0%2C9.1V6.9c0-0.3%2C0.2-0.5%2C0.5-0.5h2C2.6%2C6%2C2.8%2C5.6%2C3%2C5.3L1.6%2C3.9%0D%0A%09%09c-0.2-0.2-0.2-0.5%2C0-0.8l1.5-1.5c0.2-0.2%2C0.5-0.2%2C0.8%2C0L5.3%2C3C5.6%2C2.8%2C6%2C2.6%2C6.4%2C2.5v-2C6.4%2C0.2%2C6.6%2C0%2C6.9%2C0h2.1%0D%0A%09%09c0.3%2C0%2C0.5%2C0.2%2C0.5%2C0.5v2C10%2C2.6%2C10.4%2C2.8%2C10.7%2C3l1.4-1.4c0.2-0.2%2C0.5-0.2%2C0.8%2C0l1.5%2C1.5c0.2%2C0.2%2C0.2%2C0.5%2C0%2C0.8L13%2C5.2%0D%0A%09%09c0.2%2C0.4%2C0.4%2C0.7%2C0.5%2C1.2h2c0.3%2C0%2C0.5%2C0.2%2C0.5%2C0.5v2.1c0%2C0.3-0.2%2C0.5-0.5%2C0.5h-2c-0.1%2C0.4-0.3%2C0.8-0.5%2C1.1l1.4%2C1.4%0D%0A%09%09c0.2%2C0.2%2C0.2%2C0.5%2C0%2C0.8l-1.5%2C1.5c-0.2%2C0.2-0.5%2C0.2-0.8%2C0L10.7%2C13c-0.4%2C0.2-0.7%2C0.4-1.1%2C0.5v2c0%2C0.3-0.2%2C0.5-0.5%2C0.5H6.9%0D%0A%09%09c-0.3%2C0-0.5-0.2-0.5-0.5v-2C6%2C13.4%2C5.6%2C13.2%2C5.3%2C13l-1.4%2C1.4c-0.2%2C0.2-0.5%2C0.2-0.8%2C0l-1.5-1.5c-0.2-0.2-0.2-0.5%2C0-0.8L3%2C10.7%0D%0A%09%09C2.8%2C10.4%2C2.6%2C10%2C2.5%2C9.6z%20M4.8%2C8c0%2C1.8%2C1.4%2C3.2%2C3.2%2C3.2s3.2-1.4%2C3.2-3.2S9.8%2C4.8%2C8%2C4.8S4.8%2C6.2%2C4.8%2C8z%22/%3E%0D%0A%3C/g%3E%0D%0A%3C/svg%3E%0D%0A");
+    background-repeat: no-repeat
+}
+
+.fixed-header .icon-fogaskerek:hover {
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22utf-8%22%3F%3E%0D%0A%3C%21--%20Generator%3A%20Adobe%20Illustrator%2017.1.0%2C%20SVG%20Export%20Plug-In%20.%20SVG%20Version%3A%206.00%20Build%200%29%20%20--%3E%0D%0A%3C%21DOCTYPE%20svg%20PUBLIC%20%22-//W3C//DTD%20SVG%201.1//EN%22%20%22http%3A//www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd%22%3E%0D%0A%3Csvg%20version%3D%221.1%22%20id%3D%22Layer_1%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20xmlns%3Axlink%3D%22http%3A//www.w3.org/1999/xlink%22%20x%3D%220px%22%20y%3D%220px%22%0D%0A%09%20viewBox%3D%220%200%2016%2016%22%20style%3D%22enable-background%3Anew%200%200%2016%2016%3B%22%20xml%3Aspace%3D%22preserve%22%3E%0D%0A%3Cstyle%20type%3D%22text/css%22%3E%0D%0A%09.st0%7Bfill%3A%23222222%3B%7D%0D%0A%3C/style%3E%0D%0A%3Cg%3E%0D%0A%09%3Cpath%20class%3D%22st0%22%20d%3D%22M2.5%2C9.6h-2C0.2%2C9.6%2C0%2C9.4%2C0%2C9.1V6.9c0-0.3%2C0.2-0.5%2C0.5-0.5h2C2.6%2C6%2C2.8%2C5.6%2C3%2C5.3L1.6%2C3.9%0D%0A%09%09c-0.2-0.2-0.2-0.5%2C0-0.8l1.5-1.5c0.2-0.2%2C0.5-0.2%2C0.8%2C0L5.3%2C3C5.6%2C2.8%2C6%2C2.6%2C6.4%2C2.5v-2C6.4%2C0.2%2C6.6%2C0%2C6.9%2C0h2.1%0D%0A%09%09c0.3%2C0%2C0.5%2C0.2%2C0.5%2C0.5v2C10%2C2.6%2C10.4%2C2.8%2C10.7%2C3l1.4-1.4c0.2-0.2%2C0.5-0.2%2C0.8%2C0l1.5%2C1.5c0.2%2C0.2%2C0.2%2C0.5%2C0%2C0.8L13%2C5.2%0D%0A%09%09c0.2%2C0.4%2C0.4%2C0.7%2C0.5%2C1.2h2c0.3%2C0%2C0.5%2C0.2%2C0.5%2C0.5v2.1c0%2C0.3-0.2%2C0.5-0.5%2C0.5h-2c-0.1%2C0.4-0.3%2C0.8-0.5%2C1.1l1.4%2C1.4%0D%0A%09%09c0.2%2C0.2%2C0.2%2C0.5%2C0%2C0.8l-1.5%2C1.5c-0.2%2C0.2-0.5%2C0.2-0.8%2C0L10.7%2C13c-0.4%2C0.2-0.7%2C0.4-1.1%2C0.5v2c0%2C0.3-0.2%2C0.5-0.5%2C0.5H6.9%0D%0A%09%09c-0.3%2C0-0.5-0.2-0.5-0.5v-2C6%2C13.4%2C5.6%2C13.2%2C5.3%2C13l-1.4%2C1.4c-0.2%2C0.2-0.5%2C0.2-0.8%2C0l-1.5-1.5c-0.2-0.2-0.2-0.5%2C0-0.8L3%2C10.7%0D%0A%09%09C2.8%2C10.4%2C2.6%2C10%2C2.5%2C9.6z%20M4.8%2C8c0%2C1.8%2C1.4%2C3.2%2C3.2%2C3.2s3.2-1.4%2C3.2-3.2S9.8%2C4.8%2C8%2C4.8S4.8%2C6.2%2C4.8%2C8z%22/%3E%0D%0A%3C/g%3E%0D%0A%3C/svg%3E%0D%0A");
+    background-repeat: no-repeat
+}
+
+.fixed-header .icon-x {
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22utf-8%22%3F%3E%0D%0A%3C%21--%20Generator%3A%20Adobe%20Illustrator%2017.1.0%2C%20SVG%20Export%20Plug-In%20.%20SVG%20Version%3A%206.00%20Build%200%29%20%20--%3E%0D%0A%3C%21DOCTYPE%20svg%20PUBLIC%20%22-//W3C//DTD%20SVG%201.1//EN%22%20%22http%3A//www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd%22%3E%0D%0A%3Csvg%20version%3D%221.1%22%20id%3D%22Layer_1%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20xmlns%3Axlink%3D%22http%3A//www.w3.org/1999/xlink%22%20x%3D%220px%22%20y%3D%220px%22%0D%0A%09%20viewBox%3D%220%200%2010%2010%22%20style%3D%22enable-background%3Anew%200%200%2010%2010%3B%22%20xml%3Aspace%3D%22preserve%22%3E%0D%0A%3Cstyle%20type%3D%22text/css%22%3E%0D%0A%09.st0%7Bfill-rule%3Aevenodd%3Bclip-rule%3Aevenodd%3Bfill%3A%23999999%3B%7D%0D%0A%3C/style%3E%0D%0A%3Cg%3E%0D%0A%09%3Cpath%20class%3D%22st0%22%20d%3D%22M10.2%2C1.8L7%2C5l3.1%2C3.1l-1.9%2C1.9L5%2C7l-3.2%2C3.2l-2-2L3%2C5l-3.1-3.1l1.9-1.9L5%2C3l3.2-3.2L10.2%2C1.8z%22/%3E%0D%0A%3C/g%3E%0D%0A%3C/svg%3E%0D%0A");
+    background-repeat: no-repeat
+}
+
+.fixed-header .icon-x:hover {
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22utf-8%22%3F%3E%0D%0A%3C%21--%20Generator%3A%20Adobe%20Illustrator%2017.1.0%2C%20SVG%20Export%20Plug-In%20.%20SVG%20Version%3A%206.00%20Build%200%29%20%20--%3E%0D%0A%3C%21DOCTYPE%20svg%20PUBLIC%20%22-//W3C//DTD%20SVG%201.1//EN%22%20%22http%3A//www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd%22%3E%0D%0A%3Csvg%20version%3D%221.1%22%20id%3D%22Layer_1%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20xmlns%3Axlink%3D%22http%3A//www.w3.org/1999/xlink%22%20x%3D%220px%22%20y%3D%220px%22%0D%0A%09%20viewBox%3D%220%200%2010%2010%22%20style%3D%22enable-background%3Anew%200%200%2010%2010%3B%22%20xml%3Aspace%3D%22preserve%22%3E%0D%0A%3Cstyle%20type%3D%22text/css%22%3E%0D%0A%09.st0%7Bfill-rule%3Aevenodd%3Bclip-rule%3Aevenodd%3Bfill%3A%23222222%3B%7D%0D%0A%3C/style%3E%0D%0A%3Cg%3E%0D%0A%09%3Cpath%20class%3D%22st0%22%20d%3D%22M10.2%2C1.8L7%2C5l3.1%2C3.1l-1.9%2C1.9L5%2C7l-3.2%2C3.2l-2-2L3%2C5l-3.1-3.1l1.9-1.9L5%2C3l3.2-3.2L10.2%2C1.8z%22/%3E%0D%0A%3C/g%3E%0D%0A%3C/svg%3E%0D%0A");
+    background-repeat: no-repeat
+}
+
+._iph_fixed-header.fixed-header .icon-kulcs {
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20xmlns%3Axlink%3D%22http%3A//www.w3.org/1999/xlink%22%20version%3D%221.1%22%20id%3D%22Layer_1%22%20x%3D%220px%22%20y%3D%220px%22%20viewBox%3D%220%200%2016%2016%22%20enable-background%3D%22new%200%200%2016%2016%22%20xml%3Aspace%3D%22preserve%22%3E%0A%3Cg%20display%3D%22none%22%3E%0A%09%3Cg%20display%3D%22inline%22%3E%0A%09%09%3Cpath%20fill%3D%22%23222222%22%20d%3D%22M1.7%200.7h12.7c0.9%200%201.7%200.7%201.7%201.7S15.3%204%2014.3%204H1.7C0.7%204%200%203.3%200%202.3S0.7%200.7%201.7%200.7z%22/%3E%0A%09%09%3Cpath%20fill%3D%22%23222222%22%20d%3D%22M1.7%206h12.7C15.3%206%2016%206.7%2016%207.7s-0.7%201.7-1.7%201.7H1.7C0.7%209.3%200%208.6%200%207.7S0.7%206%201.7%206z%22/%3E%0A%09%09%3Cpath%20fill%3D%22%23222222%22%20d%3D%22M1.7%2011.3h12.7c0.9%200%201.7%200.7%201.7%201.7c0%200.9-0.7%201.7-1.7%201.7H1.7C0.7%2014.7%200%2013.9%200%2013%20C0%2012.1%200.7%2011.3%201.7%2011.3z%22/%3E%0A%09%3C/g%3E%0A%3C/g%3E%0A%3Cg%20display%3D%22none%22%3E%0A%09%3Cg%20display%3D%22inline%22%3E%0A%09%09%3Cpath%20fill%3D%22%23222222%22%20d%3D%22M8%2012c-2.6%200-6.7%200.7-6.7%200.7s0-0.6%200-0.8c0-0.3%200.3-0.4%200.3-0.4c0.7%200%200.9-1%200.9-1%20c0.5-5.3%202.9-7.2%204.7-7.6C7.1%202.7%207.1%202.5%207.1%202.3c0-0.5%200.4-0.9%200.9-0.9s0.9%200.4%200.9%200.9c0%200.2-0.1%200.4-0.2%200.6%20c1.7%200.4%204.1%202.3%204.7%207.7v-0.1c0%200.9%200.9%201%200.9%201c0.2%200%200.3%200.1%200.3%200.4s0%200.8%200%200.8S10.6%2012%208%2012z%20M9.9%2013.5%20c0%201.1-0.9%201.7-1.9%201.7c-1.1%200-1.9-0.6-1.9-1.7c0%200%200.5-0.2%201.9-0.2S9.9%2013.5%209.9%2013.5z%22/%3E%0A%09%3C/g%3E%0A%3C/g%3E%0A%3Cg%20display%3D%22none%22%3E%0A%09%3Cg%20display%3D%22inline%22%3E%0A%09%09%3Cpath%20fill%3D%22%23222222%22%20d%3D%22M14.5%2013.3c0.1%200.1%200.1%200.5%200%200.6l-0.6%200.6c-0.1%200.1-0.5%200.1-0.6%200l-3.4-3.4C9.9%2011.1%209.9%2011%209.8%2011%20c-0.9%200.7-1.9%201-3.1%201c-2.9%200-5.3-2.4-5.3-5.3s2.4-5.3%205.3-5.3S12%203.7%2012%206.7c0%201.1-0.4%202.3-1%203.1c0.1%200%200.1%200.1%200.1%200.1%20L14.5%2013.3z%20M6.7%203.1c-1.9%200-3.5%201.6-3.5%203.5s1.6%203.5%203.5%203.5s3.5-1.6%203.5-3.5S8.7%203.1%206.7%203.1z%22/%3E%0A%09%3C/g%3E%0A%3C/g%3E%0A%3Cg%20display%3D%22none%22%3E%0A%09%3Cg%20display%3D%22inline%22%3E%0A%09%09%3Cpath%20fill%3D%22%23222222%22%20d%3D%22M14.3%2013.3c-0.4-0.9-2.2-1.4-3.4-1.9S9.9%2010.5%209.9%2010V9.9c0.3-0.3%200.5-0.5%200.7-0.9%20c0.8%200.1%201.7%200.1%202.3-0.4c-1.2-1.2-0.5-2.8-1.4-5.5C10.8%200.9%207.8%201%207.4%201.9C5.8%201.3%204.5%202.1%204.1%204.5c-0.5%202.7%200.1%203.1-1%204.2%20C4%209.1%204.7%209.1%205.4%208.8c0.3%200.4%200.5%200.8%200.8%201v0.1c-0.1%200.5%200.1%200.8-1.2%201.3s-3%201.1-3.4%202s-0.3%201.4-0.3%201.4h13.1%20C14.6%2014.7%2014.7%2014.2%2014.3%2013.3z%22/%3E%0A%09%3C/g%3E%0A%3C/g%3E%0A%3Cg%20display%3D%22none%22%3E%0A%09%3Cg%20display%3D%22inline%22%3E%0A%09%09%3Cpath%20fill%3D%22%23222222%22%20d%3D%22M12%205.3H9.6l2.9-3.6c0.2-0.2%200.2-0.4%200.1-0.7c-0.1-0.2-0.3-0.3-0.6-0.3H7.6c-0.2%200-0.5%200.1-0.5%200.3%20L3.5%207.9c-0.1%200.2-0.1%200.3%200%200.5C3.6%208.5%203.7%208.6%204%208.6h1.9l0%200l0%200h0.8l-1.4%205.2c-0.1%200.3%200.1%200.6%200.3%200.7%20c0.1%200.1%200.2%200.1%200.3%200.1c0.2%200%200.3-0.1%200.5-0.2l6.2-8c0.1-0.2%200.2-0.4%200.1-0.7C12.5%205.5%2012.3%205.3%2012%205.3z%22/%3E%0A%09%3C/g%3E%0A%3C/g%3E%0A%3Cg%3E%0A%09%3Cg%3E%0A%09%09%3Cg%3E%0A%09%09%09%3Cpath%20fill%3D%22%23999999%22%20d%3D%22M10.4%201.3C7.9%201.3%206%203.3%206%205.7c0%200.7%200.1%201.5%200.4%202l-4.7%204.5c-0.1%200.1-0.1%200.1-0.1%200.3l-0.2%201.8%20c0%200.1%200%200.2%200.1%200.3c0.1%200.1%200.2%200.1%200.3%200.1h2c0.1%200%200.1-0.1%200.2-0.2v-1.1h1.6c0.1%200%200.3-0.1%200.3-0.2v-1h1.5%20c0.2%200%200.3-0.1%200.4-0.3v-1.1l0.8-1.1C9.1%209.8%209.7%2010%2010.3%2010c2.3%200%204.3-1.9%204.3-4.3C14.8%203.3%2012.8%201.3%2010.4%201.3z%20M10.9%206.4%20c-0.7%200-1.3-0.6-1.3-1.3s0.6-1.3%201.3-1.3s1.3%200.6%201.3%201.3S11.7%206.4%2010.9%206.4z%22/%3E%0A%09%09%3C/g%3E%0A%09%3C/g%3E%0A%3C/g%3E%0A%3C/svg%3E%0A");
+    background-repeat: no-repeat
+}
+
+._iph_fixed-header.fixed-header .icon-kulcs:hover,
+._iph_fixed-header.fixed-header .active>.icon-kulcs {
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20xmlns%3Axlink%3D%22http%3A//www.w3.org/1999/xlink%22%20version%3D%221.1%22%20x%3D%220px%22%20y%3D%220px%22%20viewBox%3D%220%200%2024%2024%22%20enable-background%3D%22new%200%200%2024%2024%22%20xml%3Aspace%3D%22preserve%22%3E%3Cg%20display%3D%22none%22%3E%3Cg%20display%3D%22inline%22%3E%3Cpath%20fill%3D%22%23222222%22%20d%3D%22M2.5%201h19C22.9%201%2024%202.1%2024%203.5S22.9%206%2021.5%206h-19C1.1%206%200%204.9%200%203.5S1.1%201%202.5%201z%22/%3E%3Cpath%20fill%3D%22%23222222%22%20d%3D%22M2.5%209h19c1.4%200%202.5%201.1%202.5%202.5S22.9%2014%2021.5%2014h-19C1.1%2014%200%2012.9%200%2011.5S1.1%209%202.5%209z%22/%3E%3Cpath%20fill%3D%22%23222222%22%20d%3D%22M2.5%2017h19c1.4%200%202.5%201.1%202.5%202.5S22.9%2022%2021.5%2022h-19C1.1%2022%200%2020.9%200%2019.5S1.1%2017%202.5%2017z%22/%3E%3C/g%3E%3C/g%3E%3Cg%20display%3D%22none%22%3E%3Cg%20display%3D%22inline%22%3E%3Cpath%20fill%3D%22%23222222%22%20d%3D%22M12%2018c-3.9%200-10%201-10%201s0-0.9%200-1.2c0-0.5%200.4-0.6%200.5-0.6c1.1%200%201.4-1.5%201.4-1.5%20c0.7-7.9%204.3-10.8%207-11.4c-0.2-0.3-0.3-0.5-0.3-0.9C10.6%202.6%2011.2%202%2012%202s1.4%200.6%201.4%201.4c0%200.3-0.1%200.6-0.3%200.9%20c2.6%200.6%206.2%203.4%207%2011.5v-0.1c0%201.4%201.3%201.5%201.4%201.5c0.3%200%200.5%200.2%200.5%200.6c0%200.4%200%201.2%200%201.2S15.9%2018%2012%2018z%20M14.8%2020.3%20c0%201.6-1.3%202.5-2.8%202.5c-1.6%200-2.8-0.9-2.8-2.5c0%200%200.8-0.3%202.8-0.3C14%2020%2014.8%2020.3%2014.8%2020.3z%22/%3E%3C/g%3E%3C/g%3E%3Cg%20display%3D%22none%22%3E%3Cg%20display%3D%22inline%22%3E%3Cpath%20fill%3D%22%23222222%22%20d%3D%22M21.8%2020c0.2%200.2%200.2%200.7%200%200.9l-0.9%200.9c-0.2%200.2-0.7%200.2-0.9%200l-5.1-5.1c-0.1-0.1-0.1-0.2-0.2-0.2%20c-1.3%201-2.9%201.5-4.7%201.5c-4.4%200-8-3.6-8-8s3.6-8%208-8s8%203.6%208%208c0%201.7-0.6%203.4-1.5%204.7c0.1%200%200.2%200.1%200.2%200.2L21.8%2020z%20M10.1%204.7%20c-2.9%200-5.3%202.4-5.3%205.3s2.4%205.3%205.3%205.3s5.3-2.4%205.3-5.3S13%204.7%2010.1%204.7z%22/%3E%3C/g%3E%3C/g%3E%3Cg%20display%3D%22none%22%3E%3Cg%20display%3D%22inline%22%3E%3Cpath%20fill%3D%22%23222222%22%20d%3D%22M21.5%2019.9c-0.6-1.3-3.3-2.1-5.1-2.9s-1.6-1.3-1.6-2v-0.1c0.4-0.4%200.7-0.8%201.1-1.3%20c1.2%200.2%202.5%200.2%203.5-0.6c-1.8-1.8-0.8-4.2-2.1-8.2c-1.1-3.4-5.6-3.3-6.2-2C8.7%202%206.8%203.1%206.2%206.7c-0.7%204.1%200.2%204.6-1.5%206.3%20c1.3%200.7%202.3%200.6%203.4%200.2c0.4%200.6%200.7%201.2%201.2%201.5v0.1c-0.1%200.7%200.1%201.2-1.8%202S3%2018.5%202.4%2019.8S2%2021.9%202%2021.9h19.7%20C21.9%2022%2022.1%2021.3%2021.5%2019.9z%22/%3E%3C/g%3E%3C/g%3E%3Cg%20display%3D%22none%22%3E%3Cg%20display%3D%22inline%22%3E%3Cpath%20fill%3D%22%23222222%22%20d%3D%22M18%208h-3.6l4.3-5.4c0.3-0.3%200.3-0.6%200.2-1c-0.2-0.3-0.5-0.5-0.9-0.5h-6.6c-0.3%200-0.7%200.2-0.8%200.5L5.2%2011.8%20c-0.2%200.3-0.2%200.4%200%200.7s0.4%200.4%200.8%200.4h2.9l0%200l0%200h1.2L8%2020.7c-0.1%200.4%200.1%200.9%200.4%201c0.2%200.2%200.3%200.2%200.4%200.2%20c0.3%200%200.5-0.1%200.7-0.3l9.3-12c0.2-0.3%200.3-0.6%200.1-1S18.4%208%2018%208z%22/%3E%3C/g%3E%3C/g%3E%3Cg%3E%3Cg%3E%3Cg%3E%3Cpath%20fill%3D%22%23222222%22%20d%3D%22M15.6%202C11.9%202%209%205%209%208.5c0%201.1%200.1%202.2%200.6%203l-7.1%206.8c-0.1%200.1-0.2%200.2-0.2%200.4L2%2021.4%20c0%200.2%200%200.3%200.1%200.4C2.2%2021.9%202.4%2022%202.5%2022h3c0.2%200%200.2-0.1%200.3-0.3V20h2.4c0.2%200%200.4-0.1%200.5-0.3v-1.5h2.3%20c0.3%200%200.5-0.2%200.6-0.5V16l1.2-1.6c0.8%200.3%201.8%200.6%202.7%200.6C19%2015%2022%2012.1%2022%208.6C22.2%205%2019.2%202%2015.6%202z%20M16.4%209.6%20c-1.1%200-1.9-0.9-1.9-1.9s0.9-1.9%201.9-1.9s1.9%200.9%201.9%201.9S17.5%209.6%2016.4%209.6z%22/%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    background-repeat: no-repeat
+}
